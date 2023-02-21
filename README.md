@@ -11,6 +11,9 @@
 Working on: macOS Ventura 13.2.1
 O.C Version: 0.8.9
 
+![System Information](https://user-images.githubusercontent.com/22915541/220466784-d7408f61-5701-4ab5-a5f6-789a57d81bda.png)
+
+
 ACPI
 1. SSDT-EC.aml
 2. SSDT-USBX.aml 
